@@ -1,0 +1,13 @@
+PROJECT EULER
+
+Problems 1 through 17 I completed several months ago.  Before that, I hadn't
+heard of Project Euler, and I didn't have much experience with Python.  So
+Project Euler became a way for me to brush up on my math and learn a 
+new language at the same time.
+
+As the problems increased in difficulty, I wrote out (sometimes long-winded)
+explanations at the bottom of the file containing the solution to give
+some insight into my thought process.
+
+All problems are self-contained within a single file and solutions are printed
+out to the terminal.
